@@ -1,1 +1,3 @@
-# rural-insurance-analysis
+### Rural Insurance in Paraná: *A Descriptive Analysis with 2023 Data*
+
+This study analyzes the rural insurance market in the state of Paraná, using data from the year 2023. Based on a descriptive analysis, the predominance of crops such as soybeans, second-crop corn, and wheat is identified, accounting for nearly 95% of the policies contracted in the state. A significant variability is also observed in the values of premiums, subsidies, and claims, reflecting differences in policy profiles. Additionally, the results show that the market maintains financial sustainability, with premiums exceeding indemnities, and exhibits signs of diversification through the inclusion of less representative crops and livestock insurance. It is concluded that rural insurance in Paraná is an essential tool for mitigating agricultural risks, standing out as a reference model for other regions of the country.
